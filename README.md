@@ -1,0 +1,2 @@
+# TEST.getGCUBES
+GameGuardian.wuwu
